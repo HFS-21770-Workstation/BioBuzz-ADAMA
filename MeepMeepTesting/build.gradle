@@ -1,3 +1,24 @@
+//plugins {
+//    id 'java-library'
+//}
+//
+//repositories {
+//    mavenCentral()
+//    maven { url = 'https://jitpack.io' }
+//    maven { url = 'https://maven.brott.dev/' }
+//}
+//
+//
+//
+//dependencies {
+//    implementation 'com.acmerobotics.roadrunner:MeepMeep:0.1.7'
+//}
+//
+//java {
+//    sourceCompatibility = JavaVersion.VERSION_11
+//    targetCompatibility = JavaVersion.VERSION_11
+//}
+
 plugins {
     id 'java-library'
 }
@@ -9,7 +30,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.acmerobotics.roadrunner:MeepMeep:0.1.7'
+    implementation 'com.github.aammyyzz:MeepMeep:bb44679'
 }
 
 java {

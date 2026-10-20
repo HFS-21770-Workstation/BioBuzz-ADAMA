@@ -30,7 +30,7 @@ public class MeepMeepTesting {
         );
 
         meepMeep.setBackground(
-                        MeepMeep.Background.FIELD_DECODE_JUICE_DARK
+                        MeepMeep.Background.FIELD_BIOBUZZ_JUICE_DARK
                 )
                 .setDarkMode(true)
                 .setBackgroundAlpha(0.95f)
